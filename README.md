@@ -1,4 +1,4 @@
 # hello-world
 This repo is for practicing the GitHub Flow
 
-I'm exciting to continue my data science journey with BU!
+I'm excited to continue my data science journey with BU!
